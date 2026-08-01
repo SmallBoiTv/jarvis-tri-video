@@ -1,1 +1,10 @@
-﻿[{"version":"jarvis-v1-initial","createdAt":1785526320828,"samplesCount":0,"evaluationScore":0.5,"status":"ready","notes":"Initial version - baseline system prompt uploaded to GitHub"}]
+[
+  {
+    "version": "jarvis-v1-1785600566650",
+    "createdAt": 1785600566650,
+    "samplesCount": 62,
+    "evaluationScore": 0.49439999999999995,
+    "status": "ready",
+    "notes": "Auto-trained on 62 samples | System prompt saved (538 chars) | Eval score: 0.49"
+  }
+]

@@ -1,15 +1,15 @@
-﻿{
-    "backingModels":  [
-                          "frame-video",
-                          "openreel-video",
-                          "rendiv-video"
-                      ],
-    "updatedAt":  1785526328711,
-    "description":  "Tri-video composite with Frame, OpenReel, and Rendiv backing",
-    "baseModel":  "frame-video",
-    "modelId":  "jarvis-tri-video",
-    "samplesCount":  0,
-    "name":  "Jarvis Tri-Video",
-    "currentVersion":  "jarvis-v1-initial",
-    "lastSync":  1785526328711
+{
+  "modelId": "jarvis-tri-video",
+  "name": "Jarvis Tri-Video",
+  "description": "Tri-video composite with Frame, OpenReel, and Rendiv backing",
+  "baseModel": "frame-video",
+  "backingModels": [
+    "frame-video",
+    "openreel-video",
+    "rendiv-video"
+  ],
+  "currentVersion": "jarvis-v1-1785600566650",
+  "lastSync": 1785600583642,
+  "samplesCount": 62,
+  "updatedAt": 1785600583642
 }
