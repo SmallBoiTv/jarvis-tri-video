@@ -72,43 +72,43 @@
     "notes": "Auto-trained on 67 samples | System prompt saved (538 chars) | Eval score: 0.50"
   },
   {
-    "version": "jarvis-v10-1785646461185",
-    "createdAt": 1785646461185,
-    "samplesCount": 68,
-    "evaluationScore": 0.5034,
+    "version": "jarvis-v10-1785649101218",
+    "createdAt": 1785649101218,
+    "samplesCount": 67,
+    "evaluationScore": 0.501,
     "status": "ready",
-    "notes": "Auto-trained on 68 samples | System prompt saved (538 chars) | Eval score: 0.50"
+    "notes": "Auto-trained on 67 samples | System prompt saved (538 chars) | Eval score: 0.50"
   },
   {
-    "version": "jarvis-v11-1785651861223",
-    "createdAt": 1785651861223,
-    "samplesCount": 68,
-    "evaluationScore": 0.5034,
+    "version": "jarvis-v11-1785654501251",
+    "createdAt": 1785654501251,
+    "samplesCount": 67,
+    "evaluationScore": 0.501,
     "status": "ready",
-    "notes": "Auto-trained on 68 samples | System prompt saved (538 chars) | Eval score: 0.50"
+    "notes": "Auto-trained on 67 samples | System prompt saved (538 chars) | Eval score: 0.50"
   },
   {
-    "version": "jarvis-v12-1785657261240",
-    "createdAt": 1785657261240,
-    "samplesCount": 68,
-    "evaluationScore": 0.5034,
+    "version": "jarvis-v12-1785659901274",
+    "createdAt": 1785659901274,
+    "samplesCount": 67,
+    "evaluationScore": 0.501,
     "status": "ready",
-    "notes": "Auto-trained on 68 samples | System prompt saved (538 chars) | Eval score: 0.50"
+    "notes": "Auto-trained on 67 samples | System prompt saved (538 chars) | Eval score: 0.50"
   },
   {
-    "version": "jarvis-v13-1785662661257",
-    "createdAt": 1785662661257,
-    "samplesCount": 68,
-    "evaluationScore": 0.5034,
+    "version": "jarvis-v13-1785665301303",
+    "createdAt": 1785665301303,
+    "samplesCount": 67,
+    "evaluationScore": 0.501,
     "status": "ready",
-    "notes": "Auto-trained on 68 samples | System prompt saved (538 chars) | Eval score: 0.50"
+    "notes": "Auto-trained on 67 samples | System prompt saved (538 chars) | Eval score: 0.50"
   },
   {
-    "version": "jarvis-v14-1785668061270",
-    "createdAt": 1785668061271,
-    "samplesCount": 68,
-    "evaluationScore": 0.5034,
+    "version": "jarvis-v14-1785670701327",
+    "createdAt": 1785670701327,
+    "samplesCount": 67,
+    "evaluationScore": 0.501,
     "status": "ready",
-    "notes": "Auto-trained on 68 samples | System prompt saved (538 chars) | Eval score: 0.50"
+    "notes": "Auto-trained on 67 samples | System prompt saved (538 chars) | Eval score: 0.50"
   }
 ]
