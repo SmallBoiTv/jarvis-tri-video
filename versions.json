@@ -958,5 +958,13 @@
     "evaluationScore": 0.9016000000000001,
     "status": "ready",
     "notes": "Auto-trained on 499 samples | System prompt saved (7834 chars) | Eval score: 0.90"
+  },
+  {
+    "version": "jarvis-v121-1786197352935",
+    "createdAt": 1786197352935,
+    "samplesCount": 500,
+    "evaluationScore": 0.8882000000000001,
+    "status": "ready",
+    "notes": "Auto-trained on 500 samples | System prompt saved (7834 chars) | Eval score: 0.89"
   }
 ]
