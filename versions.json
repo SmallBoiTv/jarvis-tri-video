@@ -174,5 +174,765 @@
     "evaluationScore": 0.6389999999999999,
     "status": "ready",
     "notes": "Auto-trained on 142 samples | System prompt saved (7861 chars) | Eval score: 0.64"
+  },
+  {
+    "version": "jarvis-v23-1785713698182",
+    "createdAt": 1785713698182,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v24-1785717958578",
+    "createdAt": 1785717958578,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v25-1785732462413",
+    "createdAt": 1785732462413,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v26-1785737830212",
+    "createdAt": 1785737830212,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v27-1785743230250",
+    "createdAt": 1785743230250,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v28-1785748630276",
+    "createdAt": 1785748630276,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v29-1785754030308",
+    "createdAt": 1785754030308,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v30-1785759430326",
+    "createdAt": 1785759430326,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v31-1785763693556",
+    "createdAt": 1785763693556,
+    "samplesCount": 166,
+    "evaluationScore": 0.5687999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 166 samples | System prompt saved (7861 chars) | Rolled back: eval 0.57 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v32-1785766604591",
+    "createdAt": 1785766604591,
+    "samplesCount": 168,
+    "evaluationScore": 0.5647999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 168 samples | System prompt saved (7861 chars) | Rolled back: eval 0.56 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v33-1785769089366",
+    "createdAt": 1785769089366,
+    "samplesCount": 168,
+    "evaluationScore": 0.5647999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 168 samples | System prompt saved (7861 chars) | Rolled back: eval 0.56 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v34-1785773330912",
+    "createdAt": 1785773330912,
+    "samplesCount": 172,
+    "evaluationScore": 0.5477999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 172 samples | System prompt saved (7861 chars) | Rolled back: eval 0.55 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v35-1785778218666",
+    "createdAt": 1785778218666,
+    "samplesCount": 172,
+    "evaluationScore": 0.5477999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 172 samples | System prompt saved (7861 chars) | Rolled back: eval 0.55 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v36-1785782936238",
+    "createdAt": 1785782936238,
+    "samplesCount": 172,
+    "evaluationScore": 0.5477999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 172 samples | System prompt saved (7861 chars) | Rolled back: eval 0.55 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v37-1785789572289",
+    "createdAt": 1785789572290,
+    "samplesCount": 172,
+    "evaluationScore": 0.5477999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 172 samples | System prompt saved (7861 chars) | Rolled back: eval 0.55 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v38-1785792546386",
+    "createdAt": 1785792546386,
+    "samplesCount": 172,
+    "evaluationScore": 0.5477999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 172 samples | System prompt saved (7861 chars) | Rolled back: eval 0.55 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v39-1785794569811",
+    "createdAt": 1785794569811,
+    "samplesCount": 172,
+    "evaluationScore": 0.5477999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 172 samples | System prompt saved (7861 chars) | Rolled back: eval 0.55 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v40-1785799942906",
+    "createdAt": 1785799942907,
+    "samplesCount": 172,
+    "evaluationScore": 0.5477999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 172 samples | System prompt saved (7861 chars) | Rolled back: eval 0.55 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v41-1785802352053",
+    "createdAt": 1785802352053,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v42-1785806527957",
+    "createdAt": 1785806527957,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v43-1785808558305",
+    "createdAt": 1785808558305,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v44-1785812539392",
+    "createdAt": 1785812539392,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v45-1785817061540",
+    "createdAt": 1785817061540,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v46-1785822461574",
+    "createdAt": 1785822461574,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v47-1785827861609",
+    "createdAt": 1785827861609,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v48-1785833261622",
+    "createdAt": 1785833261622,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v49-1785838661636",
+    "createdAt": 1785838661636,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v50-1785844061647",
+    "createdAt": 1785844061647,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v51-1785849461672",
+    "createdAt": 1785849461672,
+    "samplesCount": 175,
+    "evaluationScore": 0.5393999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 175 samples | System prompt saved (7861 chars) | Rolled back: eval 0.54 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v52-1785865372209",
+    "createdAt": 1785865372209,
+    "samplesCount": 187,
+    "evaluationScore": 0.5027999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 187 samples | System prompt saved (7861 chars) | Rolled back: eval 0.50 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v53-1785867306550",
+    "createdAt": 1785867306550,
+    "samplesCount": 187,
+    "evaluationScore": 0.5027999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 187 samples | System prompt saved (7861 chars) | Rolled back: eval 0.50 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v54-1785869279723",
+    "createdAt": 1785869279723,
+    "samplesCount": 197,
+    "evaluationScore": 0.483,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 197 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v55-1785872570974",
+    "createdAt": 1785872570974,
+    "samplesCount": 200,
+    "evaluationScore": 0.47700000000000015,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 200 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v56-1785885039067",
+    "createdAt": 1785885039067,
+    "samplesCount": 200,
+    "evaluationScore": 0.47700000000000015,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 200 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v57-1785889124348",
+    "createdAt": 1785889124348,
+    "samplesCount": 215,
+    "evaluationScore": 0.45539999999999997,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 215 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v58-1785891692007",
+    "createdAt": 1785891692007,
+    "samplesCount": 215,
+    "evaluationScore": 0.45539999999999997,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 215 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v59-1785897092007",
+    "createdAt": 1785897092007,
+    "samplesCount": 215,
+    "evaluationScore": 0.45539999999999997,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 215 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v60-1785902492009",
+    "createdAt": 1785902492009,
+    "samplesCount": 233,
+    "evaluationScore": 0.46800000000000014,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 233 samples | System prompt saved (7861 chars) | Rolled back: eval 0.47 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v61-1785907892011",
+    "createdAt": 1785907892011,
+    "samplesCount": 242,
+    "evaluationScore": 0.4770000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 242 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v62-1785913292012",
+    "createdAt": 1785913292012,
+    "samplesCount": 253,
+    "evaluationScore": 0.4860000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 253 samples | System prompt saved (7861 chars) | Rolled back: eval 0.49 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v63-1785918692013",
+    "createdAt": 1785918692013,
+    "samplesCount": 253,
+    "evaluationScore": 0.4860000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 253 samples | System prompt saved (7861 chars) | Rolled back: eval 0.49 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v64-1785924092014",
+    "createdAt": 1785924092014,
+    "samplesCount": 253,
+    "evaluationScore": 0.4860000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 253 samples | System prompt saved (7861 chars) | Rolled back: eval 0.49 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v65-1785929492016",
+    "createdAt": 1785929492016,
+    "samplesCount": 253,
+    "evaluationScore": 0.4860000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 253 samples | System prompt saved (7861 chars) | Rolled back: eval 0.49 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v66-1785934892017",
+    "createdAt": 1785934892017,
+    "samplesCount": 253,
+    "evaluationScore": 0.4860000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 253 samples | System prompt saved (7861 chars) | Rolled back: eval 0.49 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v67-1785940292019",
+    "createdAt": 1785940292019,
+    "samplesCount": 257,
+    "evaluationScore": 0.4595999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 257 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v68-1785945692020",
+    "createdAt": 1785945692020,
+    "samplesCount": 324,
+    "evaluationScore": 0.48179999999999995,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 324 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v69-1785951092021",
+    "createdAt": 1785951092021,
+    "samplesCount": 324,
+    "evaluationScore": 0.48179999999999995,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 324 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v70-1785956492021",
+    "createdAt": 1785956492021,
+    "samplesCount": 325,
+    "evaluationScore": 0.47519999999999996,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 325 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v71-1785961892021",
+    "createdAt": 1785961892021,
+    "samplesCount": 325,
+    "evaluationScore": 0.47519999999999996,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 325 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v72-1785971457596",
+    "createdAt": 1785971457596,
+    "samplesCount": 326,
+    "evaluationScore": 0.46799999999999986,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 326 samples | System prompt saved (7861 chars) | Rolled back: eval 0.47 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v73-1785971963732",
+    "createdAt": 1785971963732,
+    "samplesCount": 329,
+    "evaluationScore": 0.47579999999999995,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 329 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v74-1785974779411",
+    "createdAt": 1785974779411,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v75-1785977224102",
+    "createdAt": 1785977224102,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v76-1785987088468",
+    "createdAt": 1785987088468,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v77-1785992488469",
+    "createdAt": 1785992488469,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v78-1785997888470",
+    "createdAt": 1785997888470,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v79-1786003288472",
+    "createdAt": 1786003288472,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v80-1786008688471",
+    "createdAt": 1786008688471,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v81-1786014088472",
+    "createdAt": 1786014088472,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v82-1786021138167",
+    "createdAt": 1786021138167,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v83-1786026538180",
+    "createdAt": 1786026538180,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v84-1786031938203",
+    "createdAt": 1786031938203,
+    "samplesCount": 331,
+    "evaluationScore": 0.46019999999999994,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 331 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v85-1786033855958",
+    "createdAt": 1786033855958,
+    "samplesCount": 332,
+    "evaluationScore": 0.4559999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 332 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v86-1786039255972",
+    "createdAt": 1786039255972,
+    "samplesCount": 333,
+    "evaluationScore": 0.4619999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 333 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v87-1786044655973",
+    "createdAt": 1786044655973,
+    "samplesCount": 333,
+    "evaluationScore": 0.4619999999999998,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 333 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v88-1786046856889",
+    "createdAt": 1786046856889,
+    "samplesCount": 342,
+    "evaluationScore": 0.4482000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 342 samples | System prompt saved (7861 chars) | Rolled back: eval 0.45 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v89-1786052256889",
+    "createdAt": 1786052256889,
+    "samplesCount": 342,
+    "evaluationScore": 0.4482000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 342 samples | System prompt saved (7861 chars) | Rolled back: eval 0.45 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v90-1786054354659",
+    "createdAt": 1786054354659,
+    "samplesCount": 346,
+    "evaluationScore": 0.4482,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 346 samples | System prompt saved (7861 chars) | Rolled back: eval 0.45 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v91-1786060090906",
+    "createdAt": 1786060090906,
+    "samplesCount": 355,
+    "evaluationScore": 0.45479999999999987,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 355 samples | System prompt saved (7861 chars) | Rolled back: eval 0.45 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v92-1786065115083",
+    "createdAt": 1786065115083,
+    "samplesCount": 355,
+    "evaluationScore": 0.45479999999999987,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 355 samples | System prompt saved (7861 chars) | Rolled back: eval 0.45 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v93-1786070623149",
+    "createdAt": 1786070623149,
+    "samplesCount": 359,
+    "evaluationScore": 0.4529999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 359 samples | System prompt saved (7861 chars) | Rolled back: eval 0.45 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v94-1786076621298",
+    "createdAt": 1786076621298,
+    "samplesCount": 360,
+    "evaluationScore": 0.45119999999999993,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 360 samples | System prompt saved (7861 chars) | Rolled back: eval 0.45 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v95-1786080382401",
+    "createdAt": 1786080382401,
+    "samplesCount": 364,
+    "evaluationScore": 0.45899999999999996,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 364 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v96-1786083403813",
+    "createdAt": 1786083403813,
+    "samplesCount": 367,
+    "evaluationScore": 0.4638,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 367 samples | System prompt saved (7861 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v97-1786084416027",
+    "createdAt": 1786084416027,
+    "samplesCount": 375,
+    "evaluationScore": 0.4686000000000001,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 375 samples | System prompt saved (7861 chars) | Rolled back: eval 0.47 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v98-1786087315329",
+    "createdAt": 1786087315329,
+    "samplesCount": 386,
+    "evaluationScore": 0.47760000000000014,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 386 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v99-1786092715350",
+    "createdAt": 1786092715350,
+    "samplesCount": 386,
+    "evaluationScore": 0.47760000000000014,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 386 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v100-1786098115370",
+    "createdAt": 1786098115370,
+    "samplesCount": 386,
+    "evaluationScore": 0.47760000000000014,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 386 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v101-1786103515378",
+    "createdAt": 1786103515378,
+    "samplesCount": 386,
+    "evaluationScore": 0.47760000000000014,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 386 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v102-1786108915409",
+    "createdAt": 1786108915409,
+    "samplesCount": 386,
+    "evaluationScore": 0.47760000000000014,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 386 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v103-1786114315438",
+    "createdAt": 1786114315438,
+    "samplesCount": 386,
+    "evaluationScore": 0.47760000000000014,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 386 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v104-1786119231043",
+    "createdAt": 1786119231043,
+    "samplesCount": 388,
+    "evaluationScore": 0.48600000000000015,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 388 samples | System prompt saved (7861 chars) | Rolled back: eval 0.49 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v105-1786120948625",
+    "createdAt": 1786120948625,
+    "samplesCount": 392,
+    "evaluationScore": 0.4854,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 392 samples | System prompt saved (7861 chars) | Rolled back: eval 0.49 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v106-1786124167911",
+    "createdAt": 1786124167911,
+    "samplesCount": 397,
+    "evaluationScore": 0.4727999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 397 samples | System prompt saved (7861 chars) | Rolled back: eval 0.47 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v107-1786127708855",
+    "createdAt": 1786127708855,
+    "samplesCount": 400,
+    "evaluationScore": 0.47399999999999987,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 400 samples | System prompt saved (7861 chars) | Rolled back: eval 0.47 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v108-1786130312589",
+    "createdAt": 1786130312589,
+    "samplesCount": 400,
+    "evaluationScore": 0.47399999999999987,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 400 samples | System prompt saved (7861 chars) | Rolled back: eval 0.47 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v109-1786135712628",
+    "createdAt": 1786135712628,
+    "samplesCount": 400,
+    "evaluationScore": 0.47399999999999987,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 400 samples | System prompt saved (7861 chars) | Rolled back: eval 0.47 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v110-1786141112641",
+    "createdAt": 1786141112641,
+    "samplesCount": 401,
+    "evaluationScore": 0.47519999999999996,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 401 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v111-1786160669761",
+    "createdAt": 1786160669761,
+    "samplesCount": 401,
+    "evaluationScore": 0.47519999999999996,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 401 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v112-1786164975262",
+    "createdAt": 1786164975262,
+    "samplesCount": 401,
+    "evaluationScore": 0.47519999999999996,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 401 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v113-1786169345188",
+    "createdAt": 1786169345188,
+    "samplesCount": 401,
+    "evaluationScore": 0.47519999999999996,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 401 samples | System prompt saved (7861 chars) | Rolled back: eval 0.48 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v114-1786172358101",
+    "createdAt": 1786172358101,
+    "samplesCount": 412,
+    "evaluationScore": 0.4632,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 412 samples | System prompt saved (7873 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v115-1786175319692",
+    "createdAt": 1786175319692,
+    "samplesCount": 417,
+    "evaluationScore": 0.45959999999999984,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 417 samples | System prompt saved (7873 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v116-1786175601449",
+    "createdAt": 1786175601449,
+    "samplesCount": 418,
+    "evaluationScore": 0.4619999999999999,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 418 samples | System prompt saved (7873 chars) | Rolled back: eval 0.46 < previous 0.64"
+  },
+  {
+    "version": "jarvis-v117-1786179410129",
+    "createdAt": 1786179410129,
+    "samplesCount": 499,
+    "evaluationScore": 0.9016000000000001,
+    "status": "ready",
+    "notes": "Auto-trained on 499 samples | System prompt saved (7834 chars) | Eval score: 0.90"
   }
 ]
