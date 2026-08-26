@@ -2990,5 +2990,13 @@
     "evaluationScore": 0.3786,
     "status": "rolled_back",
     "notes": "Auto-trained on 774 samples | System prompt saved (7903 chars) | Rolled back: eval 0.38 < previous 0.79"
+  },
+  {
+    "version": "jarvis-v375-1787785540031",
+    "createdAt": 1787785540031,
+    "samplesCount": 777,
+    "evaluationScore": 0.3786,
+    "status": "rolled_back",
+    "notes": "Auto-trained on 777 samples | System prompt saved (7903 chars) | Rolled back: eval 0.38 < previous 0.79"
   }
 ]
